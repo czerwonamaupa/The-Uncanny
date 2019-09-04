@@ -1,0 +1,100 @@
+@charset "UTF-8";
+
+html
+{ font-size: 0.7rem; }
+
+body
+{ padding: 1rem;
+  hyphens: none; }
+
+h1
+{ font-weight: 400;
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+  font-size: 3rem;
+  line-height: 1;
+  text-align: center;
+  text-transform: uppercase; }
+
+h2, p.author, p.publisher
+{ font-weight: 400;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  font-size: 2rem;
+  line-height: 1;
+  text-align: center;
+  text-transform: uppercase;
+  text-indent: 0; }
+
+p.company, p.copyright, p.printed, p.digitised
+{ font-weight: 600;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+  line-height: 1;
+  text-align: center;
+  text-transform: uppercase;
+  text-indent: 0; }
+
+p
+{ font-size: 1.2rem;
+  line-height: 1.4rem;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-align: justify;
+  hyphens: manual;
+  text-indent: 1rem; }
+
+blockquote
+{ margin: 3rem 0;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  line-height: 1.4rem;
+  font-size: 1.2rem; }
+
+blockquote footer
+{ text-align: right; }
+
+ol, ul
+{ padding-left: 1rem;
+  text-align: left; }
+
+ul
+{ list-style: none; }
+
+li
+{ margin: 1rem 0; }
+
+a:link, a:visited
+{ color: inherit; }
+
+a:link
+{ text-decoration: none; }
+
+img
+{ margin: 2rem auto;
+  display: block;
+  width: 24rem; }
+
+p.sig
+{ text-align: right;
+  text-transform: uppercase;
+  font-size: 1.5rem; }
+
+span.smallcaps
+{ font-weight: 600; }
+
+span.normal
+{ text-transform: none; }
+
+section p:first-of-type, p.date
+{ text-indent: 0; }
+
+section#new-introductory-lectures-on-psycho-analysis > h1:first-of-type
+{ display: none; }
+
+.footnotes ol
+{ list-style: none; }
+
+sup
+{ line-height: 0; }
