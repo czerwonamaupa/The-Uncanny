@@ -98,6 +98,10 @@ section#new-introductory-lectures-on-psycho-analysis > h1:first-of-type
 
 sup
 { line-height: 0; }
+
+hr
+{ margin-top: 2rem;
+  margin-bottom: 2rem; }
 @font-face
 { font-family: libertine;
   src: url(../fonts/LinLibertine_R.woff); }
