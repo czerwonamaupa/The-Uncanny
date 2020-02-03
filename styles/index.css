@@ -57,7 +57,8 @@ blockquote footer
 
 ol, ul
 { padding-left: 1rem;
-  text-align: left; }
+  text-align: left;
+  font-size: 1.2rem; }
 
 ul
 { list-style: none; }
