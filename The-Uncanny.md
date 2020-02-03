@@ -123,7 +123,7 @@ ghastly; (of a house) haunted; (of a man) a repulsive fellow.
 FRENCH: (Sachs-Villatte). *Inquiétant*, *sinistre*, *lugubre*, *mal à
 son aise*.
 
-SPANISH: (Tollhausen, 1889). Sospechoso, *de mal aguëro*, *lugubre*,
+SPANISH: (Tollhausen, 1889). *Sospechoso*, *de mal aguëro*, *lugubre*,
 *siniestro*.
 
 The Italian and the Portuguese seem to content themselves with
@@ -167,7 +167,7 @@ and still, and the evening quiet alone watches over your cell.”
 “Quiet, lovely and *heimlich*, no place more fitted for her rest.”
 “The in and out flowing waves of the currents dreamy and *heimlich*
 as a cradle-song.” Cf. in especial *Unheimlich*. Among Swabian and
-Swiss authors in especial, often as trisyllable: “*How heimelich*
+Swiss authors in especial, often as trisyllable: “How *heimelich*
 it seemed again of an evening, back at home.” “The warm room and
 the *heimelig* afternoon.” “Little by little they grew at ease and
 *heimelig* among themselves.” “That which comes from afar… 
@@ -203,7 +203,7 @@ ventilation has to stop, there *heimlich* machinations begin.”
 “Freedom is the whispered watchword of *heimlich* conspirators and
 the loud battle-cry of professed revolutionaries.” “A holy,
 *heimlich* effect.” “I have roots that are most *heimlich*, I am
-grown in the deep earth.” “My heimlich pranks.” (Cf. *Heimtücke*
+grown in the deep earth.” “My *heimlich* pranks.” (Cf. *Heimtücke*
 [mischief]). To discover, disclose, betray someone’s
 *Heimlichkeiten*; “to concoct *Heimlichkeiten* behind my back.” Cf.
 *Geheimnis*.
@@ -568,11 +568,11 @@ intricate a story to venture to summarize. Towards the end of the
 book the reader is told the facts, hitherto concealed
 from him, from which the action springs; with the result, not
 that he is at last enlightened, but that he falls into a state of
-complete bewilderment The author has piled up too much of a kind;
+complete bewilderment. The author has piled up too much of a kind;
 one’s comprehension of the whole suffers as a result, though not
 the impression it makes. We must content ourselves with selecting
 those themes of uncanniness which are most prominent, and seeing
-whether we can fairly trace then also back to infantile sources.
+whether we can fairly trace them also back to infantile sources.
 These themes are all concerned with the idea of a “double” in
 every shape and degree, with persons, therefore, who are to be
 considered identical by reason of looking alike; Hoffmann
@@ -852,7 +852,7 @@ anxiety would then be no other than what is uncanny, irrespective
 of whether it originally aroused dread or some other affect. In
 the second place, if this is indeed the secret nature of the
 uncanny, we can understand why the usage of speech has extended
-das *Heimliche* into its opposite *das Unheimliche*;^[Cf. abstract on
+*das Heimliche* into its opposite *das Unheimliche*;^[Cf. abstract on
 p. 23.] for this uncanny is in reality nothing new or foreign,
 but something familiar and old—established in the mind that has
 been estranged only by the process of repression. This reference
@@ -1228,7 +1228,7 @@ through his trick it is already too late and the author has
 achieved his object; but it must be added that his success is not
 unalloyed. We retain a feeling of dissatisfaction, a kind of
 grudge against the attempted deceit; I have noticed this
-particularly after reading Schnitzler’s Die Weissagung and
+particularly after reading Schnitzler’s *Die Weissagung* and
 similar stories which flirt with the supernatural. The writer has
 then one more means he can use to escape our rising vexation and
 at the same time to improve his chances of success. It is this,
@@ -1321,7 +1321,7 @@ discussed from a psychoanalytical point of view in another place.
     expression in the death of the good father, and Coppelius is
     made answerable for it. Later, in his student days, Professor
     Spalanzani and Coppola the optician reproduce this double
-    representation of the fatherimago, the Professor as a member
+    representation of the father-imago, the Professor as a member
     of the father-series, Coppola openly identified with the
     lawyer Coppelius. Just as before they used to work together
     over the fire, so now they have jointly created the doll
@@ -1366,6 +1366,7 @@ discussed from a psychoanalytical point of view in another place.
     sensitive subject with him.
     
 [^20]:
+
     > “Sie ahnt, dass ich ganz sicher em Genie,  
     > Vielleicht sogar der Teufel bin.”
 
@@ -1373,7 +1374,7 @@ discussed from a psychoanalytical point of view in another place.
     this class, it is interesting to observe what the effect is
     of suddenly and unexpectedly meeting one’s own image. E. Mach
     has related two such observations in his *Analyse der Em
-    findungen* (1900, p. 3). On the first occasion he started
+    findungen* (1900, p. 3). On the first occasion he startled
     violently as soon as he realized that the face before him was
     his own. The second time he formed a very unfavorable opinion
     about the supposed stranger who got into the omnibus, and
